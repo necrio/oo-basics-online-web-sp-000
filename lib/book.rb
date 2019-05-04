@@ -36,3 +36,6 @@ def page_count=(num)
   end
 
 end
+
+book = Book.new("Some Title")
+book.turn_page
