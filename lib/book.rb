@@ -35,11 +35,4 @@ def page_count=(num)
     puts "Flipping the page...wow, you read fast!"
   end
 
-
-
-
-
-
-
-
 end
