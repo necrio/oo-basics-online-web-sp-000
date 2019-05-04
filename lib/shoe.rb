@@ -1,11 +1,11 @@
 # Make your shoe class here!
 
 class Book
-  attr_accessor 
+  attr_accessor
 # attr_reader :title
 
   def initialize(title)
-  
+
   end
 
 
